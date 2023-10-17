@@ -1,0 +1,214 @@
+,country,region,gdp,year
+0,United States,Americas,26854599.0,2023
+1,China,Asia,19373586.0,2023
+2,Japan,Asia,4409738.0,2023
+3,Germany,Europe,4308854.0,2023
+4,India,Asia,3736882.0,2023
+5,United Kingdom,Europe,3158938.0,2023
+6,France,Europe,2923489.0,2023
+7,Italy,Europe,2169745.0,2023
+8,Canada,Americas,2089672.0,2023
+9,Brazil,Americas,2081235.0,2023
+10,Russia,Europe,2062649.0,2023
+11,South Korea,Asia,1721909.0,2023
+12,Australia,Oceania,1707548.0,2023
+13,Mexico,Americas,1663164.0,2023
+14,Spain,Europe,1492432.0,2023
+15,Indonesia,Asia,1391778.0,2023
+16,Netherlands,Europe,1080880.0,2023
+17,Saudi Arabia,Asia,1061902.0,2023
+18,Turkey,Asia,1029303.0,2023
+19,Switzerland,Europe,869601.0,2023
+20,Taiwan,Asia,790728.0,2023
+21,Poland,Europe,748887.0,2023
+22,Argentina,Americas,641102.0,2023
+23,Belgium,Europe,624248.0,2023
+24,Sweden,Europe,599052.0,2023
+25,Ireland,Europe,594095.0,2023
+26,Thailand,Asia,574231.0,2023
+27,Norway,Europe,554105.0,2023
+28,Israel,Asia,539223.0,2023
+29,Singapore,Asia,515548.0,2023
+30,Austria,Europe,515199.0,2023
+31,Nigeria,Africa,506601.0,2023
+32,United Arab Emirates,Asia,498978.0,2023
+33,Vietnam,Asia,449094.0,2023
+34,Malaysia,Asia,447026.0,2023
+35,Philippines,Asia,440901.0,2023
+36,Bangladesh,Asia,420516.0,2023
+37,Denmark,Europe,405626.0,2023
+38,South Africa,Africa,399015.0,2023
+39,Hong Kong,Asia,382854.0,2023
+40,Egypt,Africa,378110.0,2023
+41,Pakistan,Asia,,"376,533"
+42,Iran,Asia,367970.0,2023
+43,Chile,Americas,358557.0,2023
+44,Romania,Europe,348902.0,2023
+45,Colombia,Americas,334689.0,2023
+46,Czech Republic,Europe,330483.0,2023
+47,Finland,Europe,301670.0,2023
+48,Peru,Americas,268235.0,2023
+49,Iraq,Asia,267893.0,2023
+50,Portugal,Europe,267721.0,2023
+51,New Zealand,Oceania,251969.0,2023
+52,Kazakhstan,Asia,245695.0,2023
+53,Greece,Europe,239300.0,2023
+54,Qatar,Asia,219570.0,2023
+55,Algeria,Africa,206007.0,2023
+56,Hungary,Europe,188505.0,2023
+57,Kuwait,Asia,164713.0,2023
+58,Ethiopia,Africa,156083.0,2023
+59,Ukraine,Europe,148712.0,2023
+60,Morocco,Africa,138781.0,2023
+61,Slovakia,Europe,127533.0,2023
+62,Ecuador,Americas,121291.0,2023
+63,Dominican Republic,Americas,121289.0,2023
+64,Puerto Rico,Americas,120838.0,2023
+65,Kenya,Africa,118130.0,2023
+66,Angola,Africa,117877.0,2023
+67,Cuba,Americas,,"107,352"
+68,Oman,Asia,104902.0,2023
+69,Guatemala,Americas,102309.0,2023
+70,Bulgaria,Europe,100635.0,2023
+71,Venezuela,Americas,96628.0,2023
+72,Uzbekistan,Asia,92332.0,2023
+73,Luxembourg,Europe,86971.0,2023
+74,Tanzania,Africa,85421.0,2023
+75,Turkmenistan,Asia,82649.0,2023
+76,Croatia,Europe,78881.0,2023
+77,Lithuania,Europe,78346.0,2023
+78,Costa Rica,Americas,77777.0,2023
+79,Uruguay,Americas,77313.0,2023
+80,Panama,Americas,77257.0,2023
+81,Ivory Coast,Africa,77047.0,2023
+82,Sri Lanka,Asia,,"74,404"
+83,Serbia,Europe,73961.0,2023
+84,Belarus,Europe,73543.0,2023
+85,Azerbaijan,Asia,70030.0,2023
+86,DR Congo,Africa,69474.0,2023
+87,Slovenia,Europe,68108.0,2023
+88,Ghana,Africa,66622.0,2023
+89,Myanmar,Asia,63988.0,2023
+90,Jordan,Asia,52061.0,2023
+91,Tunisia,Africa,49815.0,2023
+92,Uganda,Africa,49792.0,2023
+93,Cameroon,Africa,48625.0,2023
+94,Latvia,Europe,47398.0,2023
+95,Sudan,Africa,46705.0,2023
+96,Libya,Africa,46297.0,2023
+97,Bolivia,Americas,46097.0,2023
+98,Bahrain,Asia,44870.0,2023
+99,Paraguay,Americas,42820.0,2023
+100,Nepal,Asia,42097.0,2023
+101,Estonia,Europe,41551.0,2023
+102,Macau,Asia,35841.0,2023
+103,El Salvador,Americas,33752.0,2023
+104,Honduras,Americas,32860.0,2023
+105,Papua New Guinea,Oceania,31362.0,2023
+106,Senegal,Africa,31221.0,2023
+107,Cyprus,Asia,30864.0,[n 10]2023
+108,Cambodia,Asia,30628.0,2023
+109,Zimbabwe,Africa,29931.0,2023
+110,Zambia,Africa,29272.0,2023
+111,Iceland,Europe,28625.0,2023
+112,Bosnia and Herzegovina,Europe,28488.0,2023
+113,Trinidad and Tobago,Americas,28223.0,2023
+114,Georgia,Europe,27947.0,[n 11]2023
+115,Haiti,Americas,26580.0,2023
+116,Lebanon,Asia,,—
+117,Armenia,Asia,23725.0,2023
+118,Guinea,Africa,23330.0,2023
+119,Burkina Faso,Africa,21076.0,2023
+120,Mali,Africa,20776.0,2023
+121,Gabon,Africa,20330.0,2023
+122,Albania,Europe,20177.0,2023
+123,Afghanistan,Asia,,—
+124,Mozambique,Africa,19909.0,2023
+125,Palestine,Asia,19206.0,[n 12]2023
+126,Botswana,Africa,19572.0,2023
+127,Yemen,Asia,19529.0,2023
+128,Malta,Europe,19405.0,2023
+129,Benin,Africa,19236.0,2023
+130,Nicaragua,Americas,17287.0,2023
+131,Jamaica,Americas,17254.0,2023
+132,Mongolia,Asia,16908.0,2023
+133,Niger,Africa,16617.0,2023
+134,Guyana,Americas,16309.0,2023
+135,Brunei,Asia,15988.0,2023
+136,Madagascar,Africa,15969.0,2023
+137,North Korea,Asia,,—
+138,Moldova,Europe,15829.0,[n 14]2023
+139,Syria,Asia,,—
+140,North Macedonia,Europe,15278.0,2023
+141,Equatorial Guinea,Africa,15099.0,2023
+142,Mauritius,Africa,14570.0,2023
+143,Bahamas,Americas,14114.0,2023
+144,Laos,Asia,14091.0,2023
+145,Namibia,Africa,13486.0,2023
+146,Rwanda,Africa,13149.0,2023
+147,Congo,Africa,13031.0,2023
+148,Tajikistan,Asia,12796.0,2023
+149,Kyrgyzstan,Asia,12309.0,2023
+150,Chad,Africa,11962.0,2023
+151,Malawi,Africa,11277.0,2023
+152,Mauritania,Africa,10966.0,2023
+153,New Caledonia,Oceania,,—
+154,Kosovo,Europe,9990.0,2023
+155,Togo,Africa,9001.0,2023
+156,Somalia,Africa,8738.0,2023
+157,Monaco,Europe,,—
+158,Bermuda,Americas,,"7,551"
+159,Montenegro,Europe,7027.0,2023
+160,South Sudan,Africa,7012.0,2023
+161,Maldives,Asia,7004.0,2023
+162,Liechtenstein,Europe,,—
+163,Barbados,Americas,6117.0,2023
+164,French Polynesia,Oceania,,—
+165,Cayman Islands,Americas,,—
+166,Fiji,Oceania,5385.0,2023
+167,Eswatini,Africa,4824.0,2023
+168,Liberia,Africa,4375.0,2023
+169,Djibouti,Africa,3916.0,2023
+170,Andorra,Europe,3669.0,2023
+171,Aruba,Americas,3633.0,2023
+172,Sierra Leone,Africa,3520.0,2023
+173,Suriname,Americas,3470.0,2023
+174,Burundi,Africa,3234.0,2023
+175,Belize,Americas,3162.0,2023
+176,Greenland,Americas,,—
+177,Central African Republic,Africa,2736.0,2023
+178,Curaçao,Americas,,—
+179,Bhutan,Asia,2683.0,2023
+180,Eritrea,Africa,2666.0,2023
+181,Lesotho,Africa,2584.0,2023
+182,Cape Verde,Africa,2468.0,2023
+183,Gambia,Africa,2277.0,2023
+184,Saint Lucia,Americas,2262.0,2023
+185,East Timor,Asia,1988.0,2023
+186,Seychelles,Africa,1950.0,2023
+187,Guinea-Bissau,Africa,1887.0,2023
+188,Antigua and Barbuda,Americas,1864.0,2023
+189,San Marino,Europe,1807.0,2023
+190,Zanzibar,Africa,,—
+191,Solomon Islands,Oceania,1701.0,2023
+192,British Virgin Islands,Americas,,—
+193,Comoros,Africa,1348.0,2023
+194,Grenada,Americas,1274.0,2023
+195,Vanuatu,Oceania,1064.0,2023
+196,Saint Kitts and Nevis,Americas,1052.0,2023
+197,Saint Vincent and the Grenadines,Americas,1039.0,2023
+198,Turks and Caicos Islands,Americas,,"1,139"
+199,Samoa,Oceania,898.0,2023
+200,Sint Maarten,Americas,,"1,572"
+201,Dominica,Americas,681.0,2023
+202,São Tomé and Príncipe,Africa,625.0,2023
+203,Tonga,Oceania,541.0,2023
+204,Micronesia,Oceania,456.0,2023
+205,Marshall Islands,Oceania,291.0,2023
+206,Cook Islands,Oceania,,—
+207,Palau,Oceania,262.0,2023
+208,Anguilla,Americas,,—
+209,Kiribati,Oceania,248.0,2023
+210,Nauru,Oceania,151.0,2023
+211,Montserrat,Americas,,—
+212,Tuvalu,Oceania,65.0,2023
